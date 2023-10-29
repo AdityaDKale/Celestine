@@ -1,0 +1,27 @@
+{
+  "name": "celestine",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaDKale/Celestine.git"
+  },
+  "keywords": [
+    "js",
+    "Three-js",
+    "Portfolio"
+  ],
+  "author": "Aditya Kale",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AdityaDKale/Celestine/issues"
+  },
+  "homepage": "https://github.com/AdityaDKale/Celestine#readme",
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
